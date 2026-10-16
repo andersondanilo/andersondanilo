@@ -106,7 +106,7 @@ Software engineer from Brazil 🇧🇷, currently at **TelevisaUnivision**. I wr
 | [notification-forwarder](https://github.com/andersondanilo/notification-forwarder) | Forward Linux desktop notifications to Linux, Windows or macOS over mutual TLS (Rust) |
 | [jsonapi-fractal](https://github.com/andersondanilo/jsonapi-fractal) | JSON:API serializer inspired by PHP's Fractal (TypeScript) |
 | [cloudrun-benchmark](https://github.com/andersondanilo/cloudrun-benchmark) | Node.js (Fastify) vs Rust (Poem) vs Go (fasthttp) on Cloud Run, provisioned with Pulumi |
-| [dotfiles](https://github.com/andersondanilo/dotfiles)(https://github.com/andersondanilo/dotfiles) | My Linux, Neovim and tmux setup |
+| [dotfiles](https://github.com/andersondanilo/dotfiles) | My Linux, Neovim and tmux setup |
 | [tmuxp-fzf](https://github.com/andersondanilo/tmuxp-fzf) | tmux popup to select a tmuxp session |
 
 ## ✍️ Latest posts
