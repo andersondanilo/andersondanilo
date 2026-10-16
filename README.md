@@ -1,6 +1,6 @@
 # Hi, I'm Anderson Danilo 👋
 
-Software engineer from Brazil 🇧🇷, currently at **TelevisaUnivision**. I write about backend performance, Rust and Node.js at **[andersondanilo.com](https://www.andersondanilo.com)**.
+Senior software engineer from Brazil 🇧🇷, currently at **TelevisaUnivision**. I write about dev technologies at **[andersondanilo.com](https://www.andersondanilo.com)**.
 
 [![Blog](https://img.shields.io/badge/Blog-andersondanilo.com-black?style=flat)](https://www.andersondanilo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anderson--danilo--s-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-danilo-s-02a90868)
