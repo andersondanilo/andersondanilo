@@ -106,9 +106,6 @@ Software engineer from Brazil 🇧🇷, currently at **TelevisaUnivision**. I wr
 | [notification-forwarder](https://github.com/andersondanilo/notification-forwarder) | Forward Linux desktop notifications to Linux, Windows or macOS over mutual TLS (Rust) |
 | [jsonapi-fractal](https://github.com/andersondanilo/jsonapi-fractal) | JSON:API serializer inspired by PHP's Fractal (TypeScript) |
 | [cloudrun-benchmark](https://github.com/andersondanilo/cloudrun-benchmark) | Node.js (Fastify) vs Rust (Poem) vs Go (fasthttp) on Cloud Run, provisioned with Pulumi |
-| [show-de-brownie-api](https://github.com/andersondanilo/show-de-brownie-api) | Rust (Poem + OpenAPI) admin and public APIs on MongoDB, Redis and S3, deployed to Cloud Run |
-| [personal-finance](https://github.com/andersondanilo/personal-finance) | Django + MongoDB finance app using the Claude API, with Pulumi infra |
-| [node-zstd-rs](https://github.com/andersondanilo/node-zstd-rs) | Zstandard bindings for Node.js, written in Rust with napi-rs |
 | [dotfiles](https://github.com/andersondanilo/dotfiles)(https://github.com/andersondanilo/dotfiles) | My Linux, Neovim and tmux setup |
 | [tmuxp-fzf](https://github.com/andersondanilo/tmuxp-fzf) | tmux popup to select a tmuxp session |
 
